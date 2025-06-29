@@ -20,7 +20,7 @@ export const assets={
 
 export const infoList=[
     {icon:coding,title:'Languages',description:"C++ , JavaScript , PHP , Python"},
-    {icon:education,title:'Education',description:"Bsc in computer science     (Exptected Graduation:2026)"},
+    {icon:education,title:'Education',description:"BSC in computer science     (Expected Graduation:2026)"},
     {icon:projects,title:'Projects',description:"Built Several Real World Projects using the MERN stack"},
     ]
 
@@ -29,11 +29,11 @@ export const toolsData=[
 ]
 
 export const serviceData=[
-    {icon:web,title:"Web Development",description:"I offer full-stack web development services using the MERN stack ",link:"https://github.com/deepakpandey2005"},
-    {icon:android,title:"Android developer",description:"I Build Mobile applications with kotlin with integrating APIs ",link:"https://github.com/deepakpandey2005"},
-    {icon:ui,title:"UI/UX developer",description:"Responsive and clean User Interface , Intitive user experience  ",link:"https://github.com/deepakpandey2005"},
-    {icon:api,title:"api",description:"I am Experienced in making RestFull APIs with secure Backend using express and library like JWT  ",link:"https://github.com/deepakpandey2005"},
-    {icon:deployment,title:"hosting & deployment",description:"Easily Deploy your project in platforms like Netlify , Vercel , Render   ",link:"https://github.com/deepakpandey2005"},
+    {icon:web,title:"Web Development",description:"I offer full-stack web development services  ",link:"https://github.com/deepakpandey2005"},
+    {icon:android,title:"Android Development",description:"I Build Mobile applications with kotlin ",link:"https://github.com/deepakpandey2005"},
+    {icon:ui,title:"UI/UX Development",description:"Responsive and clean User Interface , Intitive user experience  ",link:"https://github.com/deepakpandey2005"},
+    {icon:api,title:"API's",description:"I am Experienced in making RestFull APIs with secure Backend using express and library like JWT  ",link:"https://github.com/deepakpandey2005"},
+    {icon:deployment,title:"Hosting & Deployment",description:"Easily Deploy your project in platforms like Netlify , Vercel , Render   ",link:"https://github.com/deepakpandey2005"},
 
 ]
 

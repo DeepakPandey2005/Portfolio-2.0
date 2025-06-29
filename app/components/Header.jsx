@@ -13,14 +13,14 @@ const Header = () => {
     transition={{duration:0.8, type:'spring',stifness:100}}
     >
 
-      <Image src={assets.img} className=' rounded-full w-32 my-5 ' alt='image'/>
+      <Image src={assets.img} className=' rounded-full w-38 px-3 my-5 bg-white/28 ' alt='image'/>
       </motion.div>
       <motion.h4 
       initial={{y:-20,opacity:0}}
     whileInView={{y:0,opacity:1}}
     transition={{duration:0.6,delay:0.3}}
     
-      className='flex  items-center gap-3 text-xl md:text-2xl mb-3'>Hello, i am Deepak pandey <FaHand className='text-amber-300 rotate-12'/></motion.h4>
+      className='flex  items-center gap-3 text-xl md:text-2xl mb-3'>Hello, I am Deepak Pandey <FaHand className='text-amber-300 rotate-12'/></motion.h4>
       
       <motion.h1
       
