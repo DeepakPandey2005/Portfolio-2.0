@@ -53,7 +53,7 @@ const Header = () => {
       initial={{y:30,opacity:0}}
     whileInView={{y:0,opacity:1}}
     transition={{duration:0.6,delay:1}}
-         href="/Deepak_resume.pdf" download className='flex items-center gap-2 px-10 py-3 border rounded-full border-gray-500 hover:scale-[1.05] duration-500'>
+         href="/Deepak_Resume.pdf" download className='flex items-center gap-2 px-10 py-3 border rounded-full border-gray-500 hover:scale-[1.05] duration-500'>
           my resume <FaDownload/>
         </motion.a>
       </div>
