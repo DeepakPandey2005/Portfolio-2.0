@@ -26,7 +26,7 @@ const Services = () => {
     whileInView={{opacity:1}}
     transition={{delay:0.7,duration:0.5}}
        className='text-center max-w-2xl mx-auto mt-5 mb-12'>I Offer Full-Stack web development services using the MERN stack , delivering
-       responsive and user-friendly web applications , From building dynamic frontends with React and Nextjs to developing secure backends with nodejs and express .In addition , i Build mobile applications with Kotlin ,especially those that integrate APIs , I can deploy your project to Netlify , vercel , Render, and help set up custom domains with ease </motion.p>
+       responsive and user-friendly web applications , From building dynamic frontends with React and Nextjs to developing secure backends with nodejs and express .In addition , i Build mobile applications with Kotlin ,especially those that integrate APIs , I can deploy your project to Cloud Platform like Azure and hosting services like Netlify , vercel , Render, and help set up custom domains with ease </motion.p>
       <motion.div
            initial={{pacity:0}}
     whileInView={{opacity:1}}
