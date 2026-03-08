@@ -80,7 +80,7 @@ const About = () => {
             {toolsData.map((tool, index) => (
               <motion.li
               whileHover={{scale:1.05}}
-                className="flex items-center justify-center w-12 sm:w14 aspect-square border border-gray-400 rounded-lg cursor-pointer hover:-translate-y-1 duration-500 dark:bg-white/90"
+                className="flex items-center justify-center w-9 sm:w11 aspect-square border border-gray-400 rounded-lg cursor-pointer hover:-translate-y-1 duration-500 dark:bg-white/90"
                 key={index}
               >
                 <Image src={tool} alt="Tool" className="w-5 sm:w-7" />

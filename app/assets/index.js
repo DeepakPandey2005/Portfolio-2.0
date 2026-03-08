@@ -41,7 +41,7 @@ export const serviceData=[
 export const myWorks=[
     {title:"Codeverse",description:"Social media platform for developers with AI features",bgImage:"/codeverse.png" ,link:"https://code-verse.live"},
     {title:"Land Lord",description:"Web appication to manage the property papers digitially ",bgImage:"/land-lord.png",link:"https://land-lord.tech"},
-    {title:"Study Buddy",description:"AI powered Mobile application for study roadmap and guidance ",bgImage:"/app-icon.png" ,link:"https://github.com/deepakpandey2005/studdy-buddy.git"},
+    {title:"Study Buddy",description:"AI powered Mobile application for study roadmap and guidance ",bgImage:"/app-icon.png" ,link:"https://github.com/DeepakPandey2005/Studdy-Buddy/releases/download/v1.0/application-e715f7a2-d1ed-4969-930c-2f0b89c147f3.apk"},
     {title:"ChatEzy",description:"real time Chatting application ",bgImage:"/chatezy.png" ,link:"https://Chat-Ezy.onrender.com"},
     {title:"Electronest",description:"Ecom platform for Electronic items with admin panel",bgImage:"/electronest.jpg" ,link:"https://electronestapp.netlify.app"},
     {title:"Music app",description:"Android Music app",bgImage:"/music.jpeg",link:"https://github.com/DeepakPandey2005/music-app.git"},
